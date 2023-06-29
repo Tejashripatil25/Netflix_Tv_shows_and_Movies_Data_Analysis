@@ -1,5 +1,7 @@
 ### Netflix_Tv_shows_and_Movies_Data_Analysis
 
+![dataset-cover](https://github.com/Tejashripatil25/Netflix_Tv_shows_and_Movies_Data_Analysis/assets/124791646/baee8a79-8c5c-4704-a217-578d82828e77)
+
 Netflix is a leading online streaming platform that was founded in 1997. Originally starting as a DVD rental service, Netflix quickly evolved and became one of the pioneers of the streaming industry. In 2007.
 
 They introduced their streaming service, allowing subscribers to access a wide range of movies, TV shows, documentaries, and original content directly on their devices.
